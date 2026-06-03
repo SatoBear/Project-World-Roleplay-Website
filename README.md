@@ -3,27 +3,27 @@
 ## Features
 - User Register/Login Form
 
-- Navigation Menu
+## Navigation Menu
 * Responsive Navigation Menu
 * Easy to access to website sections
 * Clean and organized layout
 
-- Dark Mode
+## Dark Mode
 * Toggle between light mode and dark mode
 * Improved user experience and accessibility
 * Modern interface design
 
-- Content Showcase
+## Content Showcase
 * Display featured content in card layouts
 * Organized presentation of information
 * Responsive design for desktop and mobile devices
 
-- Youtube Integration
+## Youtube Integration
 * Direct links to YouTube videos
 * Showcase trailers, tutorials, or promotional content
 * Quick access to multimedia resources
 
-- Responsive Design
+## Responsive Design
 * Optimized for desktop, tablet, and mobile devices
 * Flexible layouts and smooth navigation
 
