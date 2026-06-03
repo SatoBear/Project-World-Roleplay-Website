@@ -1,6 +1,6 @@
 # Project World Roleplay
 
-## Features
+# Features
 - User Register/Login Form
 
 ## Navigation Menu
@@ -55,7 +55,7 @@
 ![Dark](screenshots/darkmode.png)
 
 ## Link Website
-https://projectworldroleplay.infinityfreeapp.com/index.php#
+[Visit Website](https://projectworldroleplay.infinityfreeapp.com/index.php#)
 
 ## Dev - Niks
 
