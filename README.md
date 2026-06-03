@@ -27,7 +27,7 @@
 * Optimized for desktop, tablet, and mobile devices
 * Flexible layouts and smooth navigation
 
-#Showcase
+# Showcase
 
 ## Register Section
 ![Register Page](screenshots/Register.png)
