@@ -49,10 +49,10 @@
 ![Footer Page](screenshots/footer.png)
 
 # Light Mode
-[Light](screenshots/lightmode.png)
+![Light](screenshots/lightmode.png)
 
 # Dark Mode
-[Dark](screenshots/darkmode.png)
+![Dark](screenshots/darkmode.png)
 
 ## Dev - Niks
 
